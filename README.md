@@ -1,5 +1,5 @@
 ### Hi there
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dmitry-savenkov&count_private=true&show_icons=true&theme=dracula&hide_border=true" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=Dmitry-savenkov&count_private=true&show_icons=true&theme=dracula&hide_border=true" /> 
 
 ![alt text](https://www.codewars.com/users/Dmitry-savenkov/badges/large)​
 
